@@ -1,9 +1,9 @@
 :root{
-  --mainBlue:#2a2a72;
-  --lightBlue:#009ffd;
+  --mainBlue: #FC6C4F;
+  --lightBlue: #FFC15B;
   --mainWhite:#f3f3f3;
-  --mainDark:#232528;
-  --mainYellow:#ffa400;
+  --mainDark:#333333;
+  --mainYellow:#69BC6B;
 }
 body{
   font-family: 'Roboto', sans-serif !important;
@@ -28,7 +28,7 @@ body{
   font-size: 0.8rem !important;
   color:var(--mainDark);
   border-radius: 0 !important;
-  border:0.1rem solid var(--mainDark) !important;
+  border:0.2rem solid var(--mainDark) !important;
 }
 .btn-black:hover{
   background: var(--mainDark) !important;
